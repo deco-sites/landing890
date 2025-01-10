@@ -1,1 +1,21 @@
-{"sections":[{"__resolveType":"site/sections/myHero.tsx","name":"works!"}],"__resolveType":"website/pages/Page.tsx","name":"Landing","path":"/landing"}
+{
+  "sections": [
+    {
+      "__resolveType": "site/sections/myHero.tsx",
+      "name": "works!"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Hero.tsx",
+        "title": "<p>Página inicial de apresentação</p>",
+        "description": "Aqui posso inserir textos menores",
+        "image": "https://data.decoassets.com/landing890/4fd4dcfa-46e9-43a4-9ee0-bb966ad334d9/WhatsApp-Image-2025-01-10-at-12.15.41.jpeg",
+        "placement": "right"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Landing",
+  "path": "/landing"
+}

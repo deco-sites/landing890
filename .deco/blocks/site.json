@@ -1,14 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "title": "Landing",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx",
-    "titleTemplate": "Landing | deco.cx",
+    "titleTemplate": "freckery | deco.cx",
     "descriptionTemplate": "%s | Deco.cx",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/0fba8a8c-ee79-47e1-8f9d-863658d056cc",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/1350f37f-88ab-4cf1-bcf6-c386bcf8b238"
+    "favicon": "https://data.decoassets.com/landing890/4fd4dcfa-46e9-43a4-9ee0-bb966ad334d9/WhatsApp-Image-2025-01-10-at-12.15.41.jpeg",
+    "image": "https://data.decoassets.com/landing890/4fd4dcfa-46e9-43a4-9ee0-bb966ad334d9/WhatsApp-Image-2025-01-10-at-12.15.41.jpeg",
+    "title": "freckery",
+    "description": "Irei discrminar mais tarde"
   },
   "global": [
     {
@@ -29,6 +29,6 @@
   "__resolveType": "site/apps/site.ts",
   "firstByteThresholdMS": false,
   "theme": {
-    "__resolveType": "Neutral"
+    "__resolveType": "Groovy Vibes"
   }
 }
